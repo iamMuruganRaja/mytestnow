@@ -1,0 +1,2 @@
+django==4.2      # Django web framework
+gunicorn==20.1.0 # WSGI HTTP Server for running Django in production
